@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Krown Dex Backend – Setup & Run Guide
 Please setup the pnpm and the node_module , use the boiler plate
 ````bash
@@ -131,3 +132,6 @@ npm run start:prod
   └─ tsconfig.json
 
 ```
+=======
+# AWT
+>>>>>>> d8bf335e73c3c717c521ffab64c65666386847b5
